@@ -1,9 +1,12 @@
 # TLS / SSL
-## @edt ASIX M11-SAD Curs 2018-2019
+## @edt ASIX M11-SAD Curs 2020-21
 
-Podeu trobar les imatges docker al Dockehub de [isx43457566](https://hub.docker.com/u/isx43457566)
+Podeu trobar les imatges docker al Dockehub de [edtasixm11](https://hub.docker.com/u/ISX43457566)
 
-# ASIX M06-ASO Escola del treball de barcelona
+Podeu trobar la documentació del mòdul a [ASIX-M11](https://sites.google.com/site/asixm11edt/)
+
+ASIX M06-ASO Escola del treball de barcelona
+
 
 Documentació / configuracions per a realitzar exercicis de OpenSSL.
 
@@ -20,3 +23,5 @@ Ampliat el certificat per poder usar noms alternatius de server.
 **tls20:vpn** Fitxers de claus i certificats per crerar túnels
  virtuals amb OpenVPN. Utilitza l'entitatt de certificació 
 *VeritatAbsluta* i crea certificats propis per a client i servidor.
+
+
