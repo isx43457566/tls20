@@ -1,0 +1,22 @@
+# TLS / SSL
+## @edt ASIX M11-SAD Curs 2018-2019
+
+Podeu trobar les imatges docker al Dockehub de [isx43457566](https://hub.docker.com/u/isx43457566)
+
+# ASIX M06-ASO Escola del treball de barcelona
+
+Documentació / configuracions per a realitzar exercicis de OpenSSL.
+
+**certs-keys**  Directori de claus privades i certificats.
+
+**tls20:https** Fitxersper crear un container docker amb un 
+servidor https amb quatre seus virtuals, dues amb certificat
+autosignat i dues amb certificat avalat per la CA *VeritatAbsoluta*.
+
+**tls20:ldaps** Fitxers per generar un container docker ldaps, 
+amb una base de dades ldap accessible via *ldaps* i via *starttls*.
+Ampliat el certificat per poder usar noms alternatius de server.
+
+**tls20:vpn** Fitxers de claus i certificats per crerar túnels
+ virtuals amb OpenVPN. Utilitza l'entitatt de certificació 
+*VeritatAbsluta* i crea certificats propis per a client i servidor.
